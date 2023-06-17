@@ -1,0 +1,6 @@
+server:
+  port: 9002
+  error:
+    whitelabel:
+      enabled: false
+    path: /error
